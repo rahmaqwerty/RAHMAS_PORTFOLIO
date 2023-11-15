@@ -376,7 +376,13 @@ article .icon {
 
 .project-img {
   border-radius: 2rem;
-  width: 90%;
+  width: 70%;
+  height: 90%;
+}
+
+.project-mp4 {
+  border-radius: 2rem;
+  width: 70%;
   height: 90%;
 }
 
